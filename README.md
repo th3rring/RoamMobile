@@ -2,7 +2,7 @@
 
 RoamMobile is simple webview app for RoamReseach. 
 
-~~One thing that annoy me when using Roam on mobile browser is it's automatically zoom in when focusing on textinput. This app solves that.~~ (They fixed it already.)
+This fork removes the padding at the bottom of the app and targets iPad OS 14.
 
 ## Features
 
